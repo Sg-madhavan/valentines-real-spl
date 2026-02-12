@@ -21,9 +21,9 @@ export default function Home() {
     setCoords({ x: `${x}%`, y: `${y}%` });
 
     const phrases = [
-      "Intha button illa ❌",
+      "Aii 💩 Mutta",
       "En myile la🥹?",
-      "Mama venama 🫣?",
+      "Mama venama😔 ?",
       "You're breaking my heart 💔",
       "Thean please 🥺👉👈",
       "Bow...bow..😂"
