@@ -23,10 +23,13 @@ export default function Home() {
     const phrases = [
       "Aii 💩 Mutta",
       "En myile la🥹?",
-      "Mama venama😔 ?",
+      "Mama venama😔?",
       "You're breaking my heart 💔",
       "Thean please 🥺👉👈",
-      "Bow...bow..😂"
+      "Mama pavam la"
+      "Thangoo🧡"
+      "Nejama va ?"
+      "Kattika matiya😖?"
     ]
 
     const randomIndex = Math.floor(Math.random() * phrases.length);
