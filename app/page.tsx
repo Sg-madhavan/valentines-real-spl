@@ -26,9 +26,9 @@ export default function Home() {
       "Mama venama😔?",
       "You're breaking my heart 💔",
       "Thean please 🥺👉👈",
-      "Mama pavam la"
-      "Thangoo🧡"
-      "Nejama va ?"
+      "Mama pavam la",
+      "Thangoo🧡",
+      "Nejama va ?",
       "Kattika matiya😖?"
     ]
 
